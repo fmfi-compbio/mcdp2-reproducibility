@@ -1,0 +1,6 @@
+Subset reference size: 1672984 intervals
+Query size: 19671 intervals
+Number of shared bases: 1354505
+Shared coverage: 0.00043451565303274746
+P-value for enrichment for shared bases (approx): 1.0
+Z-score: -31.750698108232065

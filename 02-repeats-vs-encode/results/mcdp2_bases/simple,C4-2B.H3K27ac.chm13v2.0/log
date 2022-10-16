@@ -1,0 +1,14 @@
+2022-09-26 20:11:23,259 - mcdp2 - INFO - Loading chromosome lengths '../resources/scalability/t2t_sizes.txt'...
+2022-09-26 20:11:23,259 - mcdp2 - INFO - Loaded 24 chromosome lengths.
+2022-09-26 20:11:23,259 - mcdp2 - INFO - Loading subset reference '../resources/scalability/repeat_data/simple.bed'...
+2022-09-26 20:11:24,482 - mcdp2 - INFO - Loaded 753875 raw intervals.
+2022-09-26 20:11:24,588 - mcdp2 - INFO - 753874 of loaded intervals are on the genome.
+2022-09-26 20:11:25,119 - mcdp2 - INFO - 708565 disjoint intervals after merging.
+2022-09-26 20:11:25,243 - mcdp2 - INFO - Loading superset reference '../resources/scalability/repeat_data/repeats_all_reduced.bed'...
+2022-09-26 20:11:34,339 - mcdp2 - INFO - Loaded 5590282 raw intervals.
+2022-09-26 20:11:35,031 - mcdp2 - INFO - 5590277 of loaded intervals are on the genome.
+2022-09-26 20:11:38,318 - mcdp2 - INFO - 4119100 disjoint intervals after merging.
+2022-09-26 20:11:38,745 - mcdp2 - INFO - Loading query '../resources/scalability/encode_data/C4-2B.H3K27ac.chm13v2.0.bed'...
+2022-09-26 20:11:38,831 - mcdp2 - INFO - Loaded 52029 raw intervals.
+2022-09-26 20:11:38,841 - mcdp2 - INFO - 52029 of loaded intervals are on the genome.
+2022-09-26 20:11:38,864 - mcdp2 - INFO - 52029 disjoint intervals after merging.

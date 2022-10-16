@@ -1,0 +1,14 @@
+2022-09-26 17:20:55,816 - mcdp2 - INFO - Loading chromosome lengths '../resources/scalability/t2t_sizes.txt'...
+2022-09-26 17:20:55,816 - mcdp2 - INFO - Loaded 24 chromosome lengths.
+2022-09-26 17:20:55,816 - mcdp2 - INFO - Loading subset reference '../resources/scalability/repeat_data/low-complexity.bed'...
+2022-09-26 17:20:55,980 - mcdp2 - INFO - Loaded 104062 raw intervals.
+2022-09-26 17:20:55,992 - mcdp2 - INFO - 104062 of loaded intervals are on the genome.
+2022-09-26 17:20:56,026 - mcdp2 - INFO - 102521 disjoint intervals after merging.
+2022-09-26 17:20:56,031 - mcdp2 - INFO - Loading superset reference '../resources/scalability/repeat_data/repeats_all_reduced.bed'...
+2022-09-26 17:21:04,925 - mcdp2 - INFO - Loaded 5590282 raw intervals.
+2022-09-26 17:21:05,538 - mcdp2 - INFO - 5590277 of loaded intervals are on the genome.
+2022-09-26 17:21:08,901 - mcdp2 - INFO - 4119100 disjoint intervals after merging.
+2022-09-26 17:21:09,520 - mcdp2 - INFO - Loading query '../resources/scalability/encode_data/epithelial-cell-of-prostate-male.H3K27ac.chm13v2.0.bed'...
+2022-09-26 17:21:09,632 - mcdp2 - INFO - Loaded 69915 raw intervals.
+2022-09-26 17:21:09,643 - mcdp2 - INFO - 69915 of loaded intervals are on the genome.
+2022-09-26 17:21:09,672 - mcdp2 - INFO - 69915 disjoint intervals after merging.

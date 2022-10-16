@@ -1,0 +1,201 @@
+by_chromosomes:
+  chr1:
+    clt_mean: 2.117474932069523
+    clt_pvalue: 0.8112630943652163
+    clt_sd: 1.2661738311257638
+    clt_zscore: -0.8825604388585163
+    overlap_count: 1
+    query_size: 4978
+    reference_size: 9
+  chr10:
+    clt_mean: 0.2871077110204327
+    clt_pvalue: 0.7130580278518129
+    clt_sd: 0.5105583398646376
+    clt_zscore: -0.5623406545401893
+    overlap_count: 0
+    query_size: 3906
+    reference_size: 4
+  chr11:
+    clt_mean: 0.5324502598415659
+    clt_pvalue: 0.1743599696719566
+    clt_sd: 0.49894586944498787
+    clt_zscore: 0.9370750792636526
+    overlap_count: 1
+    query_size: 1932
+    reference_size: 1
+  chr12:
+    clt_mean: 0.0766614396165006
+    clt_pvalue: 0.6133813417831825
+    clt_sd: 0.2660534970497968
+    clt_zscore: -0.2881429504463608
+    overlap_count: 0
+    query_size: 2849
+    reference_size: 1
+  chr13:
+    clt_mean: 1.6749157436073197
+    clt_pvalue: 0.9452448269232561
+    clt_sd: 1.046562088953823
+    clt_zscore: -1.6003978753727062
+    overlap_count: 0
+    query_size: 1460
+    reference_size: 6
+  chr14:
+    clt_mean: 1.1056572236046454
+    clt_pvalue: 0.5417264589859898
+    clt_sd: 1.0083320515511076
+    clt_zscore: -0.10478415661003128
+    overlap_count: 1
+    query_size: 1379
+    reference_size: 9
+  chr15:
+    clt_mean: 1.8273289580635967
+    clt_pvalue: 0.7596454531077865
+    clt_sd: 1.1732457661487714
+    clt_zscore: -0.705162534512559
+    overlap_count: 1
+    query_size: 1880
+    reference_size: 8
+  chr16:
+    clt_mean: 1.0103005986462041
+    clt_pvalue: 0.8429730567033951
+    clt_sd: 1.0035246336189645
+    clt_zscore: -1.0067521661155479
+    overlap_count: 0
+    query_size: 2174
+    reference_size: 9
+  chr17:
+    clt_mean: 0.6075060861717905
+    clt_pvalue: 0.21075990914599135
+    clt_sd: 0.4883056844191183
+    clt_zscore: 0.803787312644363
+    overlap_count: 1
+    query_size: 1848
+    reference_size: 1
+  chr18:
+    clt_mean: 1.8577974243709992
+    clt_pvalue: 0.454177362170959
+    clt_sd: 1.2353190310967237
+    clt_zscore: 0.11511404912361191
+    overlap_count: 2
+    query_size: 2111
+    reference_size: 8
+  chr19:
+    clt_mean: 0.5415481589681723
+    clt_pvalue: 0.8614495925581551
+    clt_sd: 0.4982707602161253
+    clt_zscore: -1.0868551843846415
+    overlap_count: 0
+    query_size: 3478
+    reference_size: 1
+  chr2:
+    clt_mean: 1.4004571836391833
+    clt_pvalue: 0.3022463405524215
+    clt_sd: 1.1575287765107747
+    clt_zscore: 0.517950679522684
+    overlap_count: 2
+    query_size: 5523
+    reference_size: 18
+  chr20:
+    clt_mean: 0.7728721959738044
+    clt_pvalue: 0.06030308434645062
+    clt_sd: 0.7905557774997022
+    clt_zscore: 1.5522343128112273
+    overlap_count: 2
+    query_size: 1640
+    reference_size: 5
+  chr21:
+    clt_mean: 1.6600565305003996
+    clt_pvalue: 0.3851287351859957
+    clt_sd: 1.1640379605157858
+    clt_zscore: 0.29203813022469755
+    overlap_count: 2
+    query_size: 1311
+    reference_size: 9
+  chr22:
+    clt_mean: 1.894909769924099
+    clt_pvalue: 0.4661741520939283
+    clt_sd: 1.2379478469943006
+    clt_zscore: 0.0848906763972786
+    overlap_count: 2
+    query_size: 1514
+    reference_size: 10
+  chr3:
+    clt_mean: 0.4214212364579927
+    clt_pvalue: 0.8032944886486854
+    clt_sd: 0.49378677373964697
+    clt_zscore: -0.8534478015002289
+    overlap_count: 0
+    query_size: 2012
+    reference_size: 1
+  chr4:
+    clt_mean: 0.6101650535370429
+    clt_pvalue: 0.8078346284062883
+    clt_sd: 0.7013838974243355
+    clt_zscore: -0.8699444851496134
+    overlap_count: 0
+    query_size: 2883
+    reference_size: 4
+  chr5:
+    clt_mean: 0.0
+    clt_pvalue: 1.0
+    clt_sd: 0.0
+    clt_zscore: 0.0
+    overlap_count: 0
+    query_size: 5224
+    reference_size: 0
+  chr6:
+    clt_mean: 0.3481096416653256
+    clt_pvalue: 0.7420509547596627
+    clt_sd: 0.5358159903898061
+    clt_zscore: -0.6496813232693482
+    overlap_count: 0
+    query_size: 3612
+    reference_size: 2
+  chr7:
+    clt_mean: 0.08831939381354487
+    clt_pvalue: 0.6221939829672093
+    clt_sd: 0.28375883861115736
+    clt_zscore: -0.31124808039749347
+    overlap_count: 0
+    query_size: 4378
+    reference_size: 1
+  chr8:
+    clt_mean: 0.8253016238625839
+    clt_pvalue: 0.9851290743738003
+    clt_sd: 0.3797089062852832
+    clt_zscore: -2.173511366737649
+    overlap_count: 0
+    query_size: 4644
+    reference_size: 1
+  chr9:
+    clt_mean: 1.400553064534811
+    clt_pvalue: 0.3066002423900785
+    clt_sd: 1.1858254268244481
+    clt_zscore: 0.5055102731862169
+    overlap_count: 2
+    query_size: 1213
+    reference_size: 22
+  chrX:
+    clt_mean: 0.3344541147764973
+    clt_pvalue: 0.7369370156290131
+    clt_sd: 0.5275877153229419
+    clt_zscore: -0.6339308233736535
+    overlap_count: 0
+    query_size: 45
+    reference_size: 2
+  chrY:
+    clt_mean: 0.8850428279283823
+    clt_pvalue: 0.8340500478338155
+    clt_sd: 0.9121387052985587
+    clt_zscore: -0.9702941260876464
+    overlap_count: 0
+    query_size: 137
+    reference_size: 18
+total:
+  clt_mean: 22.280411172594416
+  clt_pvalue: 0.8978201957427905
+  clt_sd: 4.160331663456857
+  clt_zscore: -1.2692284172860573
+  overlap_count: 17
+  query_size: 62131
+  reference_size: 150

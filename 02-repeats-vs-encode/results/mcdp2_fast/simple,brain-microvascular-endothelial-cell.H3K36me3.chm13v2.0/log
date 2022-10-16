@@ -1,0 +1,14 @@
+2022-09-26 17:15:34,763 - mcdp2 - INFO - Loading chromosome lengths '../resources/scalability/t2t_sizes.txt'...
+2022-09-26 17:15:34,763 - mcdp2 - INFO - Loaded 24 chromosome lengths.
+2022-09-26 17:15:34,763 - mcdp2 - INFO - Loading subset reference '../resources/scalability/repeat_data/simple.bed'...
+2022-09-26 17:15:35,964 - mcdp2 - INFO - Loaded 753875 raw intervals.
+2022-09-26 17:15:36,046 - mcdp2 - INFO - 753874 of loaded intervals are on the genome.
+2022-09-26 17:15:36,378 - mcdp2 - INFO - 708565 disjoint intervals after merging.
+2022-09-26 17:15:36,458 - mcdp2 - INFO - Loading superset reference '../resources/scalability/repeat_data/repeats_all_reduced.bed'...
+2022-09-26 17:15:45,429 - mcdp2 - INFO - Loaded 5590282 raw intervals.
+2022-09-26 17:15:46,084 - mcdp2 - INFO - 5590277 of loaded intervals are on the genome.
+2022-09-26 17:15:50,138 - mcdp2 - INFO - 4119100 disjoint intervals after merging.
+2022-09-26 17:15:50,760 - mcdp2 - INFO - Loading query '../resources/scalability/encode_data/brain-microvascular-endothelial-cell.H3K36me3.chm13v2.0.bed'...
+2022-09-26 17:15:50,852 - mcdp2 - INFO - Loaded 49020 raw intervals.
+2022-09-26 17:15:50,865 - mcdp2 - INFO - 49020 of loaded intervals are on the genome.
+2022-09-26 17:15:50,896 - mcdp2 - INFO - 49020 disjoint intervals after merging.

@@ -1,0 +1,6 @@
+Reference size: 2000 intervals
+Query size: 50000 intervals
+Number of shared bases: 251694
+Shared coverage: 0.00251694
+P-value for enrichment for shared bases (approx): 0.41573638433531346
+Z-score: 0.21281307025707308

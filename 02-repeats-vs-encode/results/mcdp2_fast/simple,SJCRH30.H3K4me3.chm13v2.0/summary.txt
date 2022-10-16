@@ -1,0 +1,5 @@
+Subset reference size: 708565 intervals
+Query size: 29090 intervals
+Number of overlaps: 18518
+P-value for enrichment (approx): 0.0
+Z-score: 71.6658480800817
