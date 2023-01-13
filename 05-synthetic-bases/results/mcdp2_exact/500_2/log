@@ -1,0 +1,9 @@
+2023-01-12 16:03:20,018 - mcdp2 - INFO - Loading chromosome lengths '../resources/norm_approx_synth/data_unit/genomeSize'...
+2023-01-12 16:03:20,018 - mcdp2 - INFO - Loaded 1 chromosome lengths.
+2023-01-12 16:03:20,018 - mcdp2 - INFO - Loading reference '../resources/norm_approx_synth/data_unit/ref_500_2.bed'...
+2023-01-12 16:03:20,019 - mcdp2 - INFO - Loaded 500 raw intervals.
+2023-01-12 16:03:20,019 - mcdp2 - INFO - 500 of loaded intervals are on the genome.
+2023-01-12 16:03:20,019 - mcdp2 - INFO - Loading query '../resources/norm_approx_synth/data_unit/query_500_2.bed'...
+2023-01-12 16:03:20,021 - mcdp2 - INFO - Loaded 1000 raw intervals.
+2023-01-12 16:03:20,021 - mcdp2 - INFO - 1000 of loaded intervals are on the genome.
+2023-01-12 16:03:20,022 - mcdp2 - INFO - 1000 disjoint intervals after merging.
