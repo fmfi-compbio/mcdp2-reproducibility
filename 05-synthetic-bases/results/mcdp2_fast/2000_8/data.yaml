@@ -1,28 +1,28 @@
 by_chromosomes:
   chr1:
-    mean_sb: 200.03399897956518
-    pvalue_sb: 0.8180717834515236
-    query_bases_count: 10000
-    query_coverage: 0.1
-    query_size: 1000
+    mean_sb: 500.02499924937285
+    pvalue_sb: 0.6047861967420283
+    query_bases_count: 25000
+    query_coverage: 0.25
+    query_size: 500
     reference_bases_count: 2000
     reference_coverage: 0.02
-    reference_size: 1944
-    sd_sb: 15.45524404579453
-    shared_bases_count: 186
-    shared_coverage: 0.00186
-    zscore_sb: -0.9080412407582733
+    reference_size: 40
+    sd_sb: 112.97983443284221
+    shared_bases_count: 470
+    shared_coverage: 0.0047
+    zscore_sb: -0.26575538369389606
 total:
-  mean_sb: 200.03399897956518
-  pvalue_sb: 0.8180717834515236
-  query_bases_count: 10000
-  query_coverage: 0.1
-  query_size: 1000
+  mean_sb: 500.02499924937285
+  pvalue_sb: 0.6047861967420283
+  query_bases_count: 25000
+  query_coverage: 0.25
+  query_size: 500
   reference_bases_count: 2000
   reference_coverage: 0.02
-  reference_size: 1944
-  sd_sb: 15.45524404579453
-  shared_bases_count: 186
-  shared_coverage: 0.00186
+  reference_size: 40
+  sd_sb: 112.97983443284221
+  shared_bases_count: 470
+  shared_coverage: 0.0047
   total_genome_length: 100000
-  zscore_sb: -0.9080412407582733
+  zscore_sb: -0.26575538369389606
